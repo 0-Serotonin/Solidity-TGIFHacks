@@ -21,3 +21,5 @@ https://docs.soliditylang.org/en/v0.8.0/introduction-to-smart-contracts.html
 https://github.com/crytic/evm-opcodes
 
 https://etherscan.io/gastracker
+
+https://docs.google.com/presentation/d/1IqEm28q5A13-K1cBw9h-5tg-kwGtnGX7/edit?usp=sharing&ouid=102835597077344879676&rtpof=true&sd=true
